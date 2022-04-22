@@ -1,5 +1,6 @@
 from manim import *
 
+
 class {{ project }}(Scene):
     def construct(self):
         self: Scene
